@@ -1,7 +1,7 @@
 ## FLOW
  🔥 🔥 Flashbot bundler for Ethereum chain
 
- 🔥 🔥 Enquiry_telegram: @lionelemmark
+ 🔥 🔥 Enquiry_telegram: t.me/emmanuelfides1
 
 Dm me for the full source, token code and contract code
 
@@ -36,6 +36,6 @@ https://sepolia.etherscan.io/tx/0xaade886a70b91a18e741a722f0f4ced6155cf9d5e449e3
 
    ts-node index.ts send -a <amount>
 
-	Enquiry telegram:  @lionelemmark
+	Enquiry telegram:  t.me/emmanuelfides1
 
 
